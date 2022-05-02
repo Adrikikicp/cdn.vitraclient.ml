@@ -11,11 +11,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Vitra CDN" />
         <p className="description">
-          
+         
     
-    This is Vitra's CDN
+    Welcome to Vitra CDN
+    
+    Here are Uploads of every package & image of Adrikikicp Development or Vitra Project
+
         </p>
       </main>
 
